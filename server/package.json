@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "faker": "^5.5.3",
+    "mongodb": "^6.6.1",
+    "mongoose": "^8.3.4"
+  },
+  "name": "landlordtenant_management_system",
+  "version": "1.0.0",
+  "main": "myApp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.1"
+  }
+}
